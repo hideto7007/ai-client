@@ -1,4 +1,4 @@
-# ai-ai-client
+# ai-client
 
 ## Project setup
 ```
