@@ -1,4 +1,4 @@
-# ai-web2
+# ai-ai-client
 
 ## Project setup
 ```
